@@ -1,6 +1,12 @@
 # aboutme
 
 https://github.com/RaymanPython/AboutMe.git здесь моё старое резюме с сылками на боьлшую часть моих проектов.
+Мои последние работы
+
+python:
+
+      https://github.com/aleksejbiriulin/currency.git
+
 
 Резюме Бирюлин Алексей Борисович 2006.07.10 
 
