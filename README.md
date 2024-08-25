@@ -1,12 +1,20 @@
 # aboutme
-
+Студент МФТИ ВШПИ 1 курс
 https://github.com/RaymanPython/AboutMe.git здесь моё старое резюме с сылками на боьлшую часть моих проектов.
 Мои последние работы
 
 python:
 
       https://github.com/aleksejbiriulin/currency.git
+      https://github.com/aleksejbiriulin/MIEM.git
 
+С#:
+
+      https://github.com/aleksejbiriulin/C-project.git
+      
+Java:
+
+      https://github.com/aleksejbiriulin/JavaProjectSber.git
 
 Резюме Бирюлин Алексей Борисович 2006.07.10 
 
@@ -18,7 +26,7 @@ python:
 
 Дипломы всех олимпиад я прикрепиляю в этот репозиторий
 
-Пойду по БВИ либо на МФТИ ВШПИ или на ФКН ВШЭ
+Было БВИ МФТИ ВШПИ или на ФКН ВШЭ
 
 Подрабатываю с декабря 11 класса на профи ру и фриланс хабр.
 
