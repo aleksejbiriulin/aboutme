@@ -3,6 +3,8 @@
 https://github.com/RaymanPython/AboutMe.git здесь моё старое резюме с сылками на боьлшую часть моих проектов.
 Мои последние работы
 
+https://github.com/aleksejbiriulin/aboutme/blob/main/README.md
+
 python:
 
       https://github.com/aleksejbiriulin/currency.git
